@@ -9,17 +9,18 @@
     background-color: rgb(212, 208, 212);
 }
  .square {
-    width: 20px;
+     width: 20px;
     height: 20px;
     border: 1px solid black;
- }
+    
+}
 
  #container {
 
     display: flex;
     flex-wrap: wrap;
     width: 360px;
-    height: auto;
+    height: 360px;
  }
 
  .permahover {
